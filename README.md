@@ -1,2 +1,2 @@
 # HealthCare_System
-![Uploading story_img.jpg…]()
+[Uploading story_img.jpg…]()
