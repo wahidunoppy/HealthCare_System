@@ -1,0 +1,50 @@
+/* Parent Section Styles */
+.why-choose-us {
+    background-color: #26644c;
+    padding: 20px;
+    color: #ffeded;
+    font-family: Arial, sans-serif;
+    padding-bottom: 90px;
+    
+}
+.why-choose-us h2
+{ 
+    color:#ffeded
+}
+
+.why-choose-us-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap:20px
+
+}
+
+/* Child Section Styles */
+.why-choose-us .child-section {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: #4a8a70;
+    border-radius: 5px;
+    padding: 10px;
+}
+.why-choose-us .child-section p{
+    margin-top: 5px;
+    font-size: smaller;
+    color: rgba(245, 245, 245, 0.639);
+}
+
+.why-choose-us .child-section .icon {
+    width: 30px;
+    height: 20px;
+    background-color: #2f604e;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+}
+
+.why-choose-us .child-section .icon i {
+    color: white;
+}
